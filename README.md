@@ -41,7 +41,7 @@ An **interactive, gamified mobile platform** designed to make learning Tamil Isa
 
 ## 📱 Prototype Screenshot
 
-![Music Buddy Interface](Photo of Music Buddy.png)
+![Music Buddy Interface](output_interface.png)
 
 ---
 
